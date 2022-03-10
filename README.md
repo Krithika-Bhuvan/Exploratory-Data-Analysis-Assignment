@@ -1,3 +1,5 @@
+# Exploratory Data Analysis coursera - plotting assignment 1
+
 ## Introduction
 
 This assignment uses data from
